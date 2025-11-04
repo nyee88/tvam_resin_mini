@@ -1,5 +1,5 @@
 resin_or_source,Ec_mJ_cm2,Dp_um,wavelength_nm,notes
-# Replace the example rows below with real values you find (try to keep wavelength=405 nm).
+
 "ExampleResin_A",6.5,120,405,"vendor or paper link"
 "ExampleResin_B",4.8,85,405,"vendor or paper link"
 "ExampleResin_C",10.2,200,405,"vendor or paper link"
